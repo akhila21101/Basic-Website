@@ -1,2 +1,2 @@
-# mySecondWebsite
+# Basic Website
 Bootstrap website
